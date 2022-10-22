@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mahabubar Rahman</h1>
 <h3 align="center">A Data Science enthusiast from Bangladesh.</h3>
-<img align ="right" alt="Data Science" width="400" src ="https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif"
+<img align ="right" alt="Data Science" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ds-mahbub&label=Profile%20views&color=0e75b6&style=flat" alt="ds-mahbub" /> </p>
 
